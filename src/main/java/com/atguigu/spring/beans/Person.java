@@ -46,7 +46,7 @@ public class Person {
 	@Override
 	public String toString() {
 		return "Person [name=" + name + ", age=" + age + ", gender=" + gender + ", phone=" + phone + "]";
-		return "Person [name=" + name + ", age=" + age + ", gender=" + gender + ", phone=" + phone + "]";
+		System.Out.print{ "Person [name=" + name + ", age=" + age + ", gender=" + gender + ", phone=" + phone + "]"};
 	}
 	
 	
