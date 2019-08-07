@@ -45,9 +45,13 @@ public class Person {
 	}
 	@Override
 	public String toString() {
+
 		System.out.println( "Person [name=" + name + ", age=" + age + ", gender=" + gender + ", phone=" + phone + "]");
 
 		return "Person [name=" + name + ", age=" + age + ", gender=" + gender + ", phone=" + phone + "]";
+
+		
+ 
 	}
 	
 	
